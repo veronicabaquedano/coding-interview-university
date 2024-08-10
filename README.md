@@ -649,12 +649,12 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - No need to implement
 
 - ### Stack
-    - [ ] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
+    - [X] [Stacks (video)](https://www.coursera.org/lecture/data-structures/stacks-UdKzQ)
     - [ ] [[Review] Stacks in 3 minutes (video)](https://youtu.be/KcT3aVgrrpU)
     - [ ] Will not implement. Implementing with the array is trivial
 
 - ### Queue
-    - [ ] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
+    - [X] [Queue (video)](https://www.coursera.org/lecture/data-structures/queues-EShpq)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
     - [ ] [[Review] Queues in 3 minutes (video)](https://youtu.be/D6gu-_tmEpQ)
     - [ ] Implement using linked-list, with tail pointer:
@@ -702,7 +702,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
 ## More Knowledge
 
 - ### Binary search
-    - [ ] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
+    - [X] [Binary Search (video)](https://www.youtube.com/watch?v=D5SrAga1pno)
     - [ ] [Binary Search (video)](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
     - [ ] [detail](https://www.topcoder.com/thrive/articles/Binary%20Search)
     - [ ] [blueprint](https://leetcode.com/discuss/general-discussion/786126/python-powerful-ultimate-binary-search-template-solved-many-problems)
@@ -730,7 +730,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [Binary: Plusses & Minuses (Why We Use Two's Complement) (video)](https://www.youtube.com/watch?v=lKTsv6iVxV4)
         - [1s Complement](https://en.wikipedia.org/wiki/Ones%27_complement)
         - [2s Complement](https://en.wikipedia.org/wiki/Two%27s_complement)
-    - [ ] Count set bits
+    - [X] Count set bits
         - [4 ways to count bits in a byte (video)](https://youtu.be/Hzuzo9NJrlc)
         - [Count Bits](https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan)
         - [How To Count The Number Of Set Bits In a 32 Bit Integer](http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer)
@@ -1396,7 +1396,7 @@ You're never really done.
         - [ ] [Easy-to-read paper](https://raft.github.io/)
         - [ ] [Infographic](http://thesecretlivesofdata.com/raft/)
 - [ ] [Consistent Hashing](http://www.tom-e-white.com/2007/11/consistent-hashing.html)
-- [ ] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+- [X] [NoSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 - [ ] Scalability:
     - You don't need all of these. Just pick a few that interest you.
     - [ ] [Great overview (video)](https://www.youtube.com/watch?v=-W9F__D3oY4)
