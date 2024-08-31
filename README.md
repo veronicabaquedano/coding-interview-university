@@ -624,7 +624,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [X] push(item)
         - [X] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
         - [ ] prepend(item) - can use insert above at index 0
-        - [ ] pop() - remove from end, return value
+        - [X] pop() - remove from end, return value
         - [X] delete(index) - delete item at index, shifting all trailing elements left
         - [X] remove(item) - looks for value and removes index holding it (even if in multiple places)
         - [ ] find(item) - looks for value and returns first index with that value, -1 if not found
@@ -718,7 +718,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
             - [Instant Uploads And Storage Optimization In Dropbox (video)](https://www.coursera.org/lecture/data-structures/instant-uploads-and-storage-optimization-in-dropbox-DvaIb)
             - [Distributed Hash Tables (video)](https://www.coursera.org/lecture/data-structures/distributed-hash-tables-tvH8H)
 
-    - [ ] Implement with array using linear probing
+    - [X] Implement with array using linear probing
         - hash(k, m) - m is the size of the hash table
         - add(key, value) - if the key already exists, update value
         - exists(key)
