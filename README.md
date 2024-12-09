@@ -662,7 +662,7 @@ if you can identify the runtime complexity of different algorithms. It's a super
         - [ ] push_front(value) - adds an item to the front of the list
         - [ ] pop_front() - remove the front item and return its value
         - [ ] push_back(value) - adds an item at the end
-        - [ ] pop_back() - removes end item and returns its value
+        - [X] pop_back() - removes end item and returns its value
         - [X] front() - get the value of the front item
         - [X] back() - get the value of the end item
         - [X] insert(index, value) - insert value at index, so the current item at that index is pointed to by the new item at the index
